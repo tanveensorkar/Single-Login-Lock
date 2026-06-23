@@ -25,12 +25,7 @@ Feel free to open an issue or submit a pull request if you'd like to contribute.
 
 GPL v2 or later
 
-
-Short Description
-
 Restrict WordPress users to a single active login session across devices and browsers.
-
-Full Description
 
 Single Login Lock prevents account sharing by allowing only one active login session per user. If a user logs in from another device or browser, the previous session becomes invalid, ensuring better control over account access.
 
